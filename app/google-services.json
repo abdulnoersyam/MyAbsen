@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609541539310",
+    "project_id": "myabsen-2bef2",
+    "storage_bucket": "myabsen-2bef2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609541539310:android:ede74fb87c21f9b5797aff",
+        "android_client_info": {
+          "package_name": "com.example.myabsen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ2JtmMUzVN2ALb5mjkSvq-HACA7lNADA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
